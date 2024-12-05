@@ -3,3 +3,5 @@ git status
 git log
 git oneline
 git commit --m (mensagem do commit)
+
+nova alteração
